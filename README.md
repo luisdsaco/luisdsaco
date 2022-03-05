@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisdsaco
-- 👀 I’m an engineer interested in computer vision, robotics and artificial intelligence. My main expertise in related to
-innovation management but I have got previous experience programming in python, C++ and assembler of several microprocessors.
+- 👀 I’m an engineer interested in computer vision, robotics and artificial intelligence. My main expertise is related to
+innovation management but I have got previous experience programming in several languages, mainly in python, C++ and assembler of several microprocessors.
 - 🌱 I’m currently working on a demostration project coded initially in python by myself.
 
 <!---
